@@ -1,0 +1,11 @@
+C:\Users\G0L0S\source\repos\GrupoNazan\Entidades\bin\Debug\net8.0\Entidades.deps.json
+C:\Users\G0L0S\source\repos\GrupoNazan\Entidades\bin\Debug\net8.0\Entidades.dll
+C:\Users\G0L0S\source\repos\GrupoNazan\Entidades\bin\Debug\net8.0\Entidades.pdb
+C:\Users\G0L0S\source\repos\GrupoNazan\Entidades\obj\Debug\net8.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G0L0S\source\repos\GrupoNazan\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\G0L0S\source\repos\GrupoNazan\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfo.cs
+C:\Users\G0L0S\source\repos\GrupoNazan\Entidades\obj\Debug\net8.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\G0L0S\source\repos\GrupoNazan\Entidades\obj\Debug\net8.0\Entidades.dll
+C:\Users\G0L0S\source\repos\GrupoNazan\Entidades\obj\Debug\net8.0\refint\Entidades.dll
+C:\Users\G0L0S\source\repos\GrupoNazan\Entidades\obj\Debug\net8.0\Entidades.pdb
+C:\Users\G0L0S\source\repos\GrupoNazan\Entidades\obj\Debug\net8.0\ref\Entidades.dll

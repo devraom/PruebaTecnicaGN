@@ -1,0 +1,6 @@
+@GrupoNazan_HostAddress = http://localhost:5069
+
+GET {{GrupoNazan_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
